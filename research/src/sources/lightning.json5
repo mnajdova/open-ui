@@ -87,7 +87,8 @@
     {
       "name": "Carousel",
       "url": "https://www.lightningdesignsystem.com/components/carousel",
-      "category": "Component Blueprints"
+      "category": "Component Blueprints",
+			"description:": "A carousel allows multiple pieces of featured content to occupy an allocated amount of space."
     },
     {
       "name": "Chat",
